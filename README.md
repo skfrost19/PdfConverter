@@ -24,7 +24,7 @@ Image to PDF Converter is a simple and easy-to-use Windows application that enab
 * Hard Disk Space: 100 MB free space
 
 ## Support
-If you encounter any issues with the Image to PDF Converter application, please raise issues on <a href = "https://github.com/skfrost19/PdfConverter">github</a>
+If you encounter any issues with the Image to PDF Converter application, please raise issues on <a href = "https://github.com/skfrost19/PdfConverter">github</a>.
 
 ## Conclusion
 Image to PDF Converter is a powerful and easy-to-use Windows application that makes converting image files to PDF format quick and easy. Whether you need to convert a single image or multiple images to a PDF document, this app has got you covered. Give it a try today and see how it can simplify your document conversion process!
