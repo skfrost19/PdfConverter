@@ -18,10 +18,10 @@ Image to PDF Converter is a simple and easy-to-use Windows application that enab
 4. Once the conversion is complete, the PDF file will be saved in the output folder you specified.
 
 ## System Requirements
-Operating System: Windows 7, 8, or 10
-Processor: Intel or AMD Dual Core Processor
-Memory: 2 GB RAM
-Hard Disk Space: 100 MB free space
+* Operating System: Windows 7, 8, or 10
+* Processor: Intel or AMD Dual Core Processor
+* Memory: 2 GB RAM
+* Hard Disk Space: 100 MB free space
 
 ## Support
 If you encounter any issues with the Image to PDF Converter application, please raise issues on <a href = "https://github.com/skfrost19/PdfConverter">github</a>
